@@ -1,11 +1,4 @@
-[README.md](https://github.com/user-attachments/files/34889876/README.md)
-## Hi there 👋
-
-<!--
-**J-EspinozaV1/J-EspinozaV1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-## Hi, I'm Joel 👋
+Hi, I'm Joel 👋
 
 **Process Engineer** in Houston, TX, working where supply chain, data and continuous improvement meet. I spent 6+ years in field service logistics (site operations, inventory, and material planning) before moving into process engineering. Before that I served 4 years as a Military Police reservist in the Texas National Guard.
 
@@ -27,12 +20,4 @@ Here are some ideas to get you started:
 
 🌎 English & Spanish · 💼 [LinkedIn](https://www.linkedin.com/in/joel-espinoza-028083256/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
